@@ -1,1 +1,3 @@
-com/demo/EBSDemoApplication.class
+com/demo/AWSLambdaHandler.class
+com/demo/ServerLessDemoApplication.class
+com/demo/FunctionHandler.class

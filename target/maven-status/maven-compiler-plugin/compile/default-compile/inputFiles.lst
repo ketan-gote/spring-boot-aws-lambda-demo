@@ -1,1 +1,3 @@
-/Users/ketangote/workspace_learning/aws-demo/spriing-boot-serverless-function/src/main/java/com/demo/EBSDemoApplication.java
+/Users/ketangote/workspace_learning/aws-demo/spriing-boot-serverless-function/src/main/java/com/demo/ServerLessDemoApplication.java
+/Users/ketangote/workspace_learning/aws-demo/spriing-boot-serverless-function/src/main/java/com/demo/FunctionHandler.java
+/Users/ketangote/workspace_learning/aws-demo/spriing-boot-serverless-function/src/main/java/com/demo/AWSLambdaHandler.java
